@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey, I'm Hardie. <!-- Update with a sentence or two about yourself -->
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I work on <!-- what you work on, e.g. "software products" / "data systems" / "startups" -->.
+This blog is where I document projects I'm building, things I'm learning, and occasional thoughts worth writing down.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/hardie).
