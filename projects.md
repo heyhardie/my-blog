@@ -24,7 +24,7 @@ A short description of what the project is and why you built it.
 
 ## AI Marketing Strategy Team for Entertainment
 
-**Status:** In progress
+**Status:** Beta
 
 A complete on-demand marketing and content strategy team AI for TV and Film. Built with Claude.
 
@@ -33,7 +33,7 @@ A complete on-demand marketing and content strategy team AI for TV and Film. Bui
 ---
 ## My Blog
 
-**Status:** In progress
+**Status:** Live
 
 A simple personal site built with Jekyll and deployed on Cloudflare Pages.
 Writing about projects and things I'm learning along the way.
