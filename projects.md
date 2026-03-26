@@ -22,6 +22,15 @@ A short description of what the project is and why you built it.
 
 -->
 
+## AI Marketing Strategy Team for Entertainment
+
+**Status:** In progress
+
+A complete on-demand marketing and content strategy team AI for TV and Film. Built with Claude.
+
+[AI Marketing Strategy Team](https://marketing-strategist-3.hardie.org/?ref=blog)
+
+---
 ## My Blog
 
 **Status:** In progress
