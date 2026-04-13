@@ -2,8 +2,7 @@ backend:
   name: github
   repo: heyhardie/my-blog
   branch: main
-  auth_type: pkce
-  app_id: Ov23liDQevBAVsn6RB7l
+  base_url: https://sveltia-cms-auth.hardie.workers.dev
 
 media_folder: "assets/images"
 public_folder: "/assets/images"
